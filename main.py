@@ -1,4 +1,7 @@
 from datetime import datetime
+from monitor_log import monitor_file
+import time
+
 
 start_time = []
 start_pid = []
@@ -28,7 +31,7 @@ with open('logs.log', 'r') as file:
             if pid == i:
                 index_start = start_pid.index(pid)
                 index_end = end_pid.index(pid)
-                datetime.strptime(end_time[index_end], "%H:%M:%S")
+                #datetime.strptime(end_time[index_end], "%H:%M:%S")
                 time_diff =(datetime.strptime(end_time[index_end], "%H:%M:%S") - datetime.strptime(start_time[index_start], "%H:%M:%S")).total_seconds()
 
                 if time_diff >= 600:
@@ -38,4 +41,6 @@ with open('logs.log', 'r') as file:
                     with open('alerte.txt', 'a') as f:
                         f.write(f"ALERT: The JOB with the associated {pid} should be checked because he ran for more than 5 minutes !!!!.\n")
 
-
+while(True):
+    monitor_file("logs.log")
+    time.sleep(60)
