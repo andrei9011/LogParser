@@ -1,0 +1,19 @@
+The code has two parts: 
+-> The first part includes an 'initial load' type that is used to handle all the old, unlogged alerts.
+-> The second part contains a function that will be called repeatedly to log any processes running longer than necessary.
+In the first part, we create lists that will store all the PIDs, both for the started processes and the completed ones, 
+followed by checking which processes are completed in order to calculate the time difference. The unfinished processes 
+will be handled in the second part.
+In the second part, we have the function that checks the processes, and if we encounter a process of type 'END,' 
+we will remove the PID of the process that was stored under 'START' from the dictionary.
+
+Testing:
+ At 13:01 we first run the script and the log was atached. We add a new procces with PID "55555" and we insert the start time
+12:55:20. You can see the type of alarm is "ALERT". Now we will insert a line for procces with PID "72897" to end the procces.
+Now we can see in log the procces with PID "72897" dissapear and the allert will never be send again. If we wait more minutes
+we will see the alarm will be transformed from "ALERT" to "ERROR". 
+ Alarms will be write in logs at every 60 seconds for every procces added or if another procces will be eneded this one will 
+never be write into the logs again. 
+
+ I will attach the new log file with the added lines for testing and the file that logs the alerts.
+ 

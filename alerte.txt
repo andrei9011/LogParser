@@ -1,0 +1,40 @@
+ERROR: The JOB with the associated 81258 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 45135 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 39547 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 87228 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 70808 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 71766 should be checked because he ran for more than 5 minutes !!!!.
+ALERT: The JOB with the associated 50295 should be checked because he ran for more than 5 minutes !!!!.
+ALERT: The JOB with the associated 27222 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 39860 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 87570 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 85742 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 22003 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 99672 should be checked because he ran for more than 5 minutes !!!!.
+ALERT: The JOB with the associated 86716 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 52532 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 98746 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 23703 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 62401 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 24482 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72897 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 55555 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72897 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 55555 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72897 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 55555 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72897 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 55555 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72897 failed because he ran for more than 10 minutes !!!!!.
+ALERT: The JOB with the associated 55555 should be checked because he ran for more than 5 minutes !!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 55555 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 55555 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 72029 failed because he ran for more than 10 minutes !!!!!.
+ERROR: The JOB with the associated 55555 failed because he ran for more than 10 minutes !!!!!.
